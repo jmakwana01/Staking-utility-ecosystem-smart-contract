@@ -8,6 +8,8 @@ This document provides comprehensive documentation for the Insight Token Platfor
 A complete frontend application has been developed for this platform, allowing users to interact with the contracts through an intuitive interface. The frontend enables token staking, tier management, reward claiming, and content access control in a seamless user experience.
 
 📱 **Live Demo Video**: Soon
+
+
 💻 **Frontend Repository**: [https://github.com/jmakwana01/Staking-utility-ecosystem-smart-contract](https://github.com/jmakwana01/Staking-utility-ecosystem-smart-contract)
 
 ## Core Requirements Implemented
