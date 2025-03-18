@@ -9,6 +9,8 @@ A complete frontend application has been developed for this platform, allowing u
 
 📱 **Live Demo Video**:  Soon
 
+📱 **Live Demo Video**:  https://insight-tiers.vercel.app/
+
 💻 **Frontend Repository**: [https://github.com/jmakwana01/Staking-utility-ecosystem-smart-contract](https://github.com/jmakwana01/Staking-utility-ecosystem-smart-contract)
 
 ## Core Requirements Implemented
